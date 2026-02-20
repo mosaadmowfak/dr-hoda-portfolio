@@ -19,6 +19,12 @@ export default function Navbar() {
           </a>
         </li>
 
+          <li>
+          <a href="#consultation" onClick={() => setOpen(false)}>
+            BookConsultation
+          </a>
+        </li>
+
         <li>
           <a href="#about" onClick={() => setOpen(false)}>
             About
@@ -28,6 +34,12 @@ export default function Navbar() {
         <li>
           <a href="#education" onClick={() => setOpen(false)}>
             Education
+          </a>
+        </li>
+
+         <li>
+          <a href="#certifications" onClick={() => setOpen(false)}>
+            Certifications
           </a>
         </li>
 
