@@ -10,7 +10,7 @@ export default function Languages() {
 
         <br /><br />
 
-        English – Berlitz Institute
+        English – Fluent
 
       </div>
 

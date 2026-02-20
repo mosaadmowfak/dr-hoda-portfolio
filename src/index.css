@@ -231,6 +231,73 @@ font-size: 24px;
 color: #2563eb;
 cursor: pointer;
 }
+/* Consultation Section */
+
+.consultation-section {
+
+  text-align: center;
+
+}
+
+.consultation-container h3 {
+
+  margin-bottom: 15px;
+
+  color: #1e3a8a;
+
+}
+
+.consultation-container p {
+
+  color: #475569;
+
+  font-size: 16px;
+
+}
+
+.whatsapp-consult-btn {
+
+  margin-top: 25px;
+
+  display: inline-flex;
+
+  align-items: center;
+
+  gap: 12px;
+
+  background: #25D366;
+
+  color: white;
+
+  padding: 15px 30px;
+
+  border-radius: 12px;
+
+  font-size: 17px;
+
+  font-weight: 600;
+
+  text-decoration: none;
+
+  transition: 0.3s;
+
+}
+
+.whatsapp-consult-btn svg {
+
+  font-size: 24px;
+
+}
+
+.whatsapp-consult-btn:hover {
+
+  background: #1ebe5d;
+
+  transform: translateY(-3px);
+
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+
+}
 
 @media (max-width: 768px) {
 

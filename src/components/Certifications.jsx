@@ -2,7 +2,7 @@ export default function Certifications() {
   return (
     <section id="certifications">
 
-      <h3>Academic Qualifications</h3>
+      <h3>Certifications</h3>
 
       <div className="card card-wide">
 
@@ -10,7 +10,7 @@ export default function Certifications() {
 
         <br /><br />
 
-        • Cognitive Behavioral Therapy Diploma
+        • PhD in Cognitive Behavioral Therapy – 2017
         <br />
         (Cognitive Behavioral Therapy Program for Youth and Adults)
         <br />

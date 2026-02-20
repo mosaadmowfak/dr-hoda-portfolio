@@ -14,7 +14,7 @@ export default function Education() {
         Master of Social Service – 2009
         <br /><br />
 
-        Cognitive Behavioral Therapy Diploma – 2017
+        PhD in Cognitive Behavioral Therapy – 2017
         <br /><br />
 
         Delmar College UK – 2023
